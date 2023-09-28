@@ -2,7 +2,7 @@
 This is the Project "Computer Vision" in EECS 280 (Programming and Introductory Data structures) @ UMich
 
 Project "Computer Vision" is the second of five projects that come in EECS 280, focusing on pointers in C++.
-The specifications can be found further at https://eecs280staff.github.io/p2-cv/[https://eecs280staff.github.io/p2-cv/]
+The specifications can be found further at [https://eecs280staff.github.io/p2-cv/]
 - Build an image resizing program using a seam-carving algorithm.
 - The learning goals of this project include Testing, Debugging, Pointers, Arrays, Strings, Streams, IO, and Abstract Data Types in C. You’ll gain practice with C-style pointers, arrays, and structs.
 
